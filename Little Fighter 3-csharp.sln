@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{B5A33878-17D6-670C-5D9E-65BFA3A56AC5}") = "Little Fighter 3", "Assembly-CSharp-firstpass-vs.csproj", "{0B9ED5B1-2FF6-C3CE-9D94-61282E0DCB34}"
+EndProject
+Project("{B5A33878-17D6-670C-5D9E-65BFA3A56AC5}") = "Little Fighter 3", "Assembly-CSharp-vs.csproj", "{EE63175E-2CC2-8173-2918-3DB8CD358DEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B9ED5B1-2FF6-C3CE-9D94-61282E0DCB34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B9ED5B1-2FF6-C3CE-9D94-61282E0DCB34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B9ED5B1-2FF6-C3CE-9D94-61282E0DCB34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B9ED5B1-2FF6-C3CE-9D94-61282E0DCB34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE63175E-2CC2-8173-2918-3DB8CD358DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE63175E-2CC2-8173-2918-3DB8CD358DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE63175E-2CC2-8173-2918-3DB8CD358DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE63175E-2CC2-8173-2918-3DB8CD358DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
